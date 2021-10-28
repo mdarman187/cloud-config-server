@@ -1,3 +1,3 @@
 # cloud-config-server
 
-contains common propeerties of the microservices.
+contains common properties of the microservices.
